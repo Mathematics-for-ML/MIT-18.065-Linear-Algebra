@@ -10,7 +10,7 @@ Original Link for Contents : [Link](https://ocw.mit.edu/courses/18-065-matrix-me
 
 ## Table of Contents
 
-1.  The Column Space of A Contains All Vectors Ax
+1.  [The Column Space of A Contains All Vectors Ax](https://github.com/Mathematics-for-ML/MIT-18.065-Linear-Algebra/blob/main/Lecture%201%20The%20Column%20Space%20of%20A%20Contains%20All%20Vectors%20Ax.md)
 
 ## Members
 
