@@ -7,8 +7,6 @@ Tags: changhyeon nam
 
 ---
 
-$$\left[X\atopY\right]$$
-
 ## Multiplying a matrix by vector
 
 $$A = \begin{bmatrix} 2&1&3 \\ 3 & 1&4 \\ 5&7&12\end{bmatrix},\space x=\begin{bmatrix}x_1\\x_2\\x_3\end{bmatrix}$$
