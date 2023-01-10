@@ -7,7 +7,7 @@ Tags: changhyeon nam
 
 ---
 
-$\left[X\atopY\right]$
+$$\left[X\atopY\right]$$
 
 ## Multiplying a matrix by vector
 
