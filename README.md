@@ -1,8 +1,10 @@
 # MIT-18.065-Linear-Algebra
 
+[mathematics-for-ml.github.io](https://mathematics-for-ml.github.io/MIT-18.065-Linear-Algebra/)
+
 Notes and codes for Matrix Methods In Data Analysis, Signal Processing, And Machine Learning.
 
-Course : MIT Open CourseWork 18.065 | Spring 2018
+Course : MIT Open CourseWork 18.065, Spring 2018
 
 Presenter : Prof. Gilbert Strang
 
