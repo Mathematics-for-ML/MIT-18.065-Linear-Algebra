@@ -7,9 +7,7 @@ Tags: changhyeon nam
 
 ---
 
-```math
-begin{bmatrix}X\\Y\end{bmatrix}
-```
+$\left[X\atopY\right]$
 
 ## Multiplying a matrix by vector
 
