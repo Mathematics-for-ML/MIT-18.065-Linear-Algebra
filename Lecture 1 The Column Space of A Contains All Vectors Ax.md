@@ -9,7 +9,7 @@ Tags: changhyeon nam
 
 ## Multiplying a matrix by vector
 
-$A = \begin{bmatrix} 2&1&3 \\ 3 & 1&4 \\ 5&7&12\end{bmatrix},\space x=\begin{bmatrix}x_1\\x_2\\x_3\end{bmatrix}$
+$$A = \begin{bmatrix} 2&1&3 \\ 3 & 1&4 \\ 5&7&12\end{bmatrix},\space x=\begin{bmatrix}x_1\\x_2\\x_3\end{bmatrix}$$
 
 위와 같이 행렬 $A$ 와 벡터 $x$ 가 있다고 하자. $Ax$를 계산하는 방법은 크게 두가지가 있다.
 
@@ -18,7 +18,7 @@ $A = \begin{bmatrix} 2&1&3 \\ 3 & 1&4 \\ 5&7&12\end{bmatrix},\space x=\begin{bma
 
 행렬과 벡터를 올바르게 계산하는 방법은 2번 방법이고, 다음과 같이 표현할 수 있다.
 
-$Ax = x_1\begin{bmatrix}2\\3\\5\end{bmatrix}+x_2\begin{bmatrix}1\\1\\7\end{bmatrix}+x_3\begin{bmatrix}3\\4\\12\end{bmatrix}$
+$$Ax = x_1\begin{bmatrix}2\\3\\5\end{bmatrix}+x_2\begin{bmatrix}1\\1\\7\end{bmatrix}+x_3\begin{bmatrix}3\\4\\12\end{bmatrix}$$
 
 $Ax$는 벡터 $x$을 선형변환 행렬 $A$를 통해 계산된 새로운 벡터 $x'$이라고 할 수 있다. ($Ax=x'$)
 
@@ -26,11 +26,11 @@ $Ax$는 벡터 $x$을 선형변환 행렬 $A$를 통해 계산된 새로운 벡�
 
 행렬 A의 column의 모든 combination은 행렬 A의 column space와 동일하다. 다시말하면 $Ax$로 표현될 수 있는 모든 공간이 A의 column space, $C(A)$라고 할 수 있다.
 
-$B=\begin{bmatrix}1&3&8\\1&3&8\\1&3&8\end{bmatrix}$
+$$B=\begin{bmatrix}1&3&8\\1&3&8\\1&3&8\end{bmatrix}$$
 
 위의 경우엔 $B$의 각 column이 모두 서로 dependent하기 때문에 $C(B)=rank(B)=1$이고, B의 column space는 line으로 표현된다.
 
-$A = \begin{bmatrix} 2&1&3 \\ 3 & 1&4 \\ 5&7&12\end{bmatrix}$
+$$A = \begin{bmatrix} 2&1&3 \\ 3 & 1&4 \\ 5&7&12\end{bmatrix}$$
 
 위의 행렬 $A$의 경우 세번째 column은 첫번째와 두번째 column의 합으로 표현되기 때문에, 세번째 column은 나머지 두개에 linearly dependent하다. 그래서 $C(A)=rank(A)=2$이고, A의 column space는 plane으로 표현된다.
 
@@ -40,11 +40,12 @@ Row rank는 row space의 dimension을 의미한다. 즉 Row space of A는 A의 r
 
 ## Matrix Factorization of A
 
-$A=\begin{bmatrix} 2&1&3 \\ 3 & 1&4 \\ 5&7&12\end{bmatrix}= \begin{bmatrix} 2&1 \\ 3 &1 \\ 5&7\end{bmatrix} \begin{bmatrix}1&0&1 \\ 0&1&1\end{bmatrix}$
+$$A=\begin{bmatrix} 2&1&3 \\ 3 & 1&4 \\ 5&7&12\end{bmatrix}= \begin{bmatrix} 2&1 \\ 3 &1 \\ 5&7\end{bmatrix} \begin{bmatrix}1&0&1 \\ 0&1&1\end{bmatrix}$$
 
 행렬 A를 위와 같이 $A=CR$ 로 factorize해보자.
 
-$C=\begin{bmatrix} 2&1 \\ 3 &1 \\ 5&7\end{bmatrix}, R=\begin{bmatrix}1&0&1 \\ 0&1&1\end{bmatrix}$이고, R은 reduced row echelon form이라고도 불린다.
+$$C=\begin{bmatrix} 2&1 \\ 3 &1 \\ 5&7\end{bmatrix}, R=\begin{bmatrix}1&0&1 \\ 0&1&1\end{bmatrix}$$
+R은 reduced row echelon form이라고도 불린다.
 
 이때 C는 basis for column space, R은 basis for row space로 이뤄진 행렬이다.
 
