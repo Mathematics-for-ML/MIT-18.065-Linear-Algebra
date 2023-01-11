@@ -14,7 +14,7 @@ Original Link for Contents : [Link](https://ocw.mit.edu/courses/18-065-matrix-me
 
 1.  [The Column Space of A Contains All Vectors Ax](https://canary-kettle-aac.notion.site/Lecture-1-The-Column-Space-of-A-Contains-All-Vectors-Ax-7c038ac68c9a487781e393ccaf3aa25d)
 
-2. [Multiplying and Factoring Matrix](https://www.notion.so/Lecture-2-Multiplying-and-Factoring-Matrices-b042de6b768e4c49b3e527b6928ef7e8)
+2. [Multiplying and Factoring Matrix](https://burnt-fisher-5ca.notion.site/Lecture-2-Multiplying-and-Factoring-Matrices-b042de6b768e4c49b3e527b6928ef7e8)
 
 ## Members
 
