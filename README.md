@@ -16,7 +16,7 @@ Original Link for Contents : [Link](https://ocw.mit.edu/courses/18-065-matrix-me
 
 2. [Lecture 2: Multiplying and Factoring Matrix](https://burnt-fisher-5ca.notion.site/Lecture-2-Multiplying-and-Factoring-Matrices-b042de6b768e4c49b3e527b6928ef7e8)
 3. [Lecture 3: Orthonormal Columns in Q Give Q’Q = I](https://canary-kettle-aac.notion.site/Lecture-3-Orthonormal-Columns-in-Q-Give-Q-Q-I-6157e2df4d974d2ca9d2933fdee67794)
-4. [Lecture 4: Eigenvalues and Eigenvectors]
+4. [Lecture 4: Eigenvalues and Eigenvectors](https://burnt-fisher-5ca.notion.site/Lecture-4-Eigenvalues-and-Eigenvectors-a56b29ffd2d44937b696bb8ffb0094cd)
 5. [Lecture 5: Positive Definite and Semidefinite Matrices](https://canary-kettle-aac.notion.site/Lecture-5-Positive-Definite-and-Semidefinite-Matrices-2a844efbd66a4681998aa6d21a7891a2)
 
 ## Members
