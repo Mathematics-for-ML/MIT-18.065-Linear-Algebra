@@ -17,6 +17,7 @@ Original Link for Contents : [Link](https://ocw.mit.edu/courses/18-065-matrix-me
 3. [Lecture 3: Orthonormal Columns in Q Give Q’Q = I](https://canary-kettle-aac.notion.site/Lecture-3-Orthonormal-Columns-in-Q-Give-Q-Q-I-6157e2df4d974d2ca9d2933fdee67794)
 4. [Lecture 4: Eigenvalues and Eigenvectors](https://burnt-fisher-5ca.notion.site/Lecture-4-Eigenvalues-and-Eigenvectors-a56b29ffd2d44937b696bb8ffb0094cd)
 5. [Lecture 5: Positive Definite and Semidefinite Matrices](https://canary-kettle-aac.notion.site/Lecture-5-Positive-Definite-and-Semidefinite-Matrices-2a844efbd66a4681998aa6d21a7891a2)
+6. [Lecture 6: Singular Value Decomposition (SVD)](https://burnt-fisher-5ca.notion.site/Lecutre-6-Singular-Value-Decomposition-SVD-0202b4db103c460d866796481514afec)
 
 ## Members
 
